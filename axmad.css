@@ -1,0 +1,38 @@
+.box{
+    display: flex;
+    gap: 22px;
+}
+.herader{
+  gap: 100px;
+    display: flex;
+}
+.logo{
+    margin-top: 30px;
+}
+
+body{
+    background-image:url("./Rectangle\ \(1\).png");
+    background-repeat: no-repeat;
+
+}
+.h1{
+    width: 511px;
+    color: #000;
+ margin-left: 430px;
+text-align: center;
+font-family: Roboto;
+
+font-style: normal;
+font-weight: 400;
+line-height: 50.625px;
+}
+.h1 p {
+    width: 537px;color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.75px; 
+    letter-spacing: 1px;
+}
